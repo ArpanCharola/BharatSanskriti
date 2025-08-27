@@ -1,0 +1,992 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "slug": "andhra-pradesh",
+    "tagline": "The Kohinoor of India",
+    "capital": "Amaravati",
+    "region": "South India",
+    "languages": ["Telugu", "Urdu"],
+    "bestTime": "October – February",
+    "heroImage": "/states/andhra-pradesh/hero.jpg",
+    "thumbnail": "/states/andhra-pradesh/thumb.jpg",
+    "culture": "Known for Kuchipudi dance, a classical Indian dance form, and vibrant festivals like Sankranti and Ugadi.",
+    "heritage": ["Belum Caves", "Undavalli Caves", "Amaravati Stupa"],
+    "nature": ["Araku Valley", "Borra Caves", "Kolleru Lake"],
+    "cuisine": ["Pesarattu", "Gongura Pachadi", "Kodi Pulusu"],
+    "mustVisit": [
+      {
+        "name": "Tirumala Venkateswara Temple",
+        "image": "/states/andhra-pradesh/tirupati.jpg",
+        "description": "One of the most visited and richest temples in the world, dedicated to Lord Venkateswara."
+      },
+      {
+        "name": "Visakhapatnam",
+        "image": "/states/andhra-pradesh/visakhapatnam.jpg",
+        "description": "A beautiful port city known for its pristine beaches and scenic landscapes."
+      }
+    ],
+    "tourismLink": "https://tourism.ap.gov.in/"
+  },{
+    "name": "Arunachal Pradesh",
+    "slug": "arunachal-pradesh",
+    "tagline": "The Land of the Dawn-Lit Mountains",
+    "capital": "Itanagar",
+    "region": "Northeast India",
+    "languages": ["English", "Hindi"],
+    "bestTime": "October – April",
+    "heroImage": "/states/arunachal-pradesh/hero.jpg",
+    "thumbnail": "/states/arunachal-pradesh/thumb.jpg",
+    "culture": "Home to 26 major tribes and over 100 sub-tribes. Known for unique folk dances, handloom and handicrafts, and festivals like Losar and Solung.",
+    "heritage": ["Tawang Monastery", "Ita Fort", "Jaswant Garh War Memorial"],
+    "nature": ["Ziro Valley", "Sela Pass", "Namdapha National Park"],
+    "cuisine": ["Thukpa", "Momos", "Apong (Rice Beer)"],
+    "mustVisit": [
+      {
+        "name": "Tawang Monastery",
+        "image": "/states/arunachal-pradesh/tawang.jpg",
+        "description": "The largest monastery in India and the second largest in the world, Tawang is a major spiritual center for Buddhists."
+      },
+      {
+        "name": "Ziro Valley",
+        "image": "/states/arunachal-pradesh/ziro.jpg",
+        "description": "A UNESCO World Heritage site nominee, famous for its lush green rice fields, pine groves, and the unique Apatani tribal culture."
+      }
+    ],
+    "tourismLink": "https://arunachaltourism.com/"
+  }, {
+    "name": "Assam",
+    "slug": "assam",
+    "tagline": "The Land of One-Horned Rhinoceros",
+    "capital": "Dispur",
+    "region": "Northeast India",
+    "languages": ["Assamese", "Bodo", "Bengali"],
+    "bestTime": "October – March",
+    "heroImage": "/states/assam/hero.jpg",
+    "thumbnail": "/states/assam/thumb.jpg",
+    "culture": "Known for the Bihu festival, Assamese tea plantations, and its unique blend of indigenous and Vaishnavite traditions.",
+    "heritage": ["Kamakhya Temple", "Sivasagar Sivadol", "Kaziranga National Park (UNESCO)"],
+    "nature": ["Manas National Park", "Majuli Island", "Umananda Island"],
+    "cuisine": ["Khar", "Masor Tenga", "Aloo Pitika"],
+    "mustVisit": [
+      {
+        "name": "Kaziranga National Park",
+        "image": "/states/assam/kaziranga.jpg",
+        "description": "A UNESCO World Heritage Site and home to the world's largest population of one-horned rhinoceroses."
+      },
+      {
+        "name": "Kamakhya Temple",
+        "image": "/states/assam/kamakhya.jpg",
+        "description": "A revered Hindu pilgrimage site dedicated to the goddess Kamakhya, located on Nilachal Hill in Guwahati."
+      }
+    ],
+    "tourismLink": "https://tourism.assam.gov.in/"
+  }, {
+    "name": "Meghalaya",
+    "slug": "meghalaya",
+    "tagline": "The Abode of Clouds",
+    "capital": "Shillong",
+    "region": "Northeast India",
+    "languages": ["Khasi", "Garo", "English"],
+    "bestTime": "October – April",
+    "heroImage": "/states/meghalaya/hero.jpg",
+    "thumbnail": "/states/meghalaya/thumb.jpg",
+    "culture": "Home to the Khasi, Garo, and Jaintia tribes. Famous for living root bridges and matriarchal societies.",
+    "heritage": ["Living Root Bridges", "Nartiang Monoliths", "Mawphlang Sacred Grove"],
+    "nature": ["Cherrapunji", "Mawsynram", "Dawki River"],
+    "cuisine": ["Jadoh", "Doh Khlieh", "Momos"],
+    "mustVisit": [
+      {
+        "name": "Double Decker Living Root Bridge",
+        "image": "/states/meghalaya/living-root-bridge.jpg",
+        "description": "A remarkable bio-engineering marvel created by the Khasi people from the roots of the Ficus elastica tree."
+      },
+      {
+        "name": "Nohkalikai Falls",
+        "image": "/states/meghalaya/nohkalikai-falls.JPG",
+        "description": "India's tallest plunge waterfall, located near Cherrapunji, one of the wettest places on earth."
+      }
+    ],
+    "tourismLink": "https://www.meghalayatourism.in/"
+  },{
+    "name": "Bihar",
+    "slug": "bihar",
+    "tagline": "The Land of Enlightenment",
+    "capital": "Patna",
+    "region": "East India",
+    "languages": ["Hindi", "Maithili", "Urdu"],
+    "bestTime": "October – March",
+    "heroImage": "/states/bihar/hero.jpg",
+    "thumbnail": "/states/bihar/thumb.jpg",
+    "culture": "A spiritual and historical hub with a rich legacy from the Maurya and Gupta empires, known for Buddhist and Jain pilgrimage sites.",
+    "heritage": ["Mahabodhi Temple", "Nalanda University Ruins", "Bodh Gaya"],
+    "nature": ["Valmiki National Park", "Rajgir", "Kanwar Lake"],
+    "cuisine": ["Litti Chokha", "Thekua", "Khaja"],
+    "mustVisit": [
+      {
+        "name": "Mahabodhi Temple",
+        "image": "/states/bihar/mahabodhi-temple.jpg",
+        "description": "A UNESCO World Heritage Site where Siddhartha Gautama is said to have attained enlightenment and become the Buddha."
+      },
+      {
+        "name": "Nalanda University Ruins",
+        "image": "/states/bihar/nalanda.jpg",
+        "description": "The remnants of an ancient center of learning and a Buddhist monastery, considered one of the first great universities in the world."
+      }
+    ],
+    "tourismLink": "https://tourism.bihar.gov.in/"
+  },
+  {
+    "name": "Chhattisgarh",
+    "slug": "chhattisgarh",
+    "tagline": "The Rice Bowl of India",
+    "capital": "Raipur",
+    "region": "Central India",
+    "languages": ["Chhattisgarhi", "Hindi"],
+    "bestTime": "October – March",
+    "heroImage": "/states/chhattisgarh/hero.jpg",
+    "thumbnail": "/states/chhattisgarh/thumb.jpg",
+    "culture": "A tribal state with a rich folk culture, ancient temples, and stunning natural landscapes. Known for its traditional arts and crafts.",
+    "heritage": ["Bhoramdeo Temple", "Sirpur", "Kharod Shiv Temple"],
+    "nature": ["Chitrakote Falls", "Indravati National Park", "Kanger Valley National Park"],
+    "cuisine": ["Faraa", "Muthia", "Dehrori"],
+    "mustVisit": [
+      {
+        "name": "Chitrakote Falls",
+        "image": "/states/chhattisgarh/chitrakote-falls.JPG",
+        "description": "Often called 'The Niagara Falls of India,' it is the widest waterfall in the country, located on the Indravati River."
+      },
+      {
+        "name": "Bhoramdeo Temple",
+        "image": "/states/chhattisgarh/bhoramdeo-temple.jpeg",
+        "description": "An 11th-century temple complex dedicated to Lord Shiva, known for its intricate carvings and resemblance to the Khajuraho temples."
+      }
+    ],
+    "tourismLink": "https://www.chhattisgarhtourism.in/"
+  },
+  {
+    "name": "Goa",
+    "slug": "goa",
+    "tagline": "The Pearl of the Orient",
+    "capital": "Panaji",
+    "region": "West India",
+    "languages": ["Konkani", "Marathi"],
+    "bestTime": "November – February",
+    "heroImage": "/states/goa/hero.jpg",
+    "thumbnail": "/states/goa/thumb.jpg",
+    "culture": "A unique blend of Indian and Portuguese cultures, famous for its laid-back lifestyle, vibrant nightlife, and grand carnivals.",
+    "heritage": ["Basilica of Bom Jesus", "Se Cathedral", "Fort Aguada"],
+    "nature": ["Dudhsagar Falls", "Palolem Beach", "Bhagwan Mahavir Wildlife Sanctuary"],
+    "cuisine": ["Goan Fish Curry", "Pork Vindaloo", "Bebinca"],
+    "mustVisit": [
+      {
+        "name": "Basilica of Bom Jesus",
+        "image": "/states/goa/basilica-of-bom-jesus.jpg",
+        "description": "A UNESCO World Heritage Site that holds the mortal remains of St. Francis Xavier, a revered saint."
+      },
+      {
+        "name": "Dudhsagar Falls",
+        "image": "/states/goa/dudhsagar-falls.jpg",
+        "description": "A spectacular four-tiered waterfall located on the Mandovi River, a popular spot for trekking and nature lovers."
+      }
+    ],
+    "tourismLink": "https://goa-tourism.com/"
+  },{
+    "name": "Gujarat",
+    "slug": "gujarat",
+    "tagline": "The Land of Legends",
+    "capital": "Gandhinagar",
+    "region": "West India",
+    "languages": ["Gujarati", "Hindi"],
+    "bestTime": "October – February",
+    "heroImage": "/states/gujarat/hero.jpeg",
+    "thumbnail": "/states/gujarat/thumb.jpg",
+    "culture": "Known for vibrant festivals like Navratri, where people perform **Garba** and **Dandiya Raas**. It's a land of rich traditions, intricate handicrafts, and a predominantly vegetarian cuisine.",
+    "heritage": ["Rani ki Vav", "Laxmi Vilas Palace", "Somnath Temple"],
+    "nature": ["Gir National Park", "Rann of Kutch", "Pirotan Island"],
+    "cuisine": ["Dhokla", "Thepla", "Khandvi"],
+    "mustVisit": [
+      {
+        "name": "Statue of Unity",
+        "image": "/states/gujarat/statue-of-unity.jpg",
+        "description": "The world's tallest statue, dedicated to **Sardar Vallabhbhai Patel**. It is a major engineering and tourism marvel."
+      },
+      {
+        "name": "Dwarkadhish Temple",
+        "image": "/states/gujarat/dwarkadhish.jpg",
+        "description": "A revered Hindu pilgrimage site dedicated to Lord Krishna, one of the **Char Dham** pilgrimage sites."
+      }
+    ],
+    "tourismLink": "https://www.gujarattourism.com/"
+  },
+  {
+    "name": "Haryana",
+    "slug": "haryana",
+    "tagline": "The Home of Gods",
+    "capital": "Chandigarh",
+    "region": "North India",
+    "languages": ["Hindi", "Haryanvi"],
+    "bestTime": "October – March",
+    "heroImage": "/states/haryana/hero.jpg",
+    "thumbnail": "/states/haryana/thumb.jpg",
+    "culture": "A state with a deep connection to the epic Mahabharata. It's known for its agricultural prosperity and traditional folk dances.",
+    "heritage": ["Kurukshetra", "Sultanpur National Park", "Tomb of Sheikh Chilli"],
+    "nature": ["Morni Hills", "Sultanpur National Park", "Badkhal Lake"],
+    "cuisine": ["Bajre ki Khichdi", "Besan Masala Roti", "Bathua Raita"],
+    "mustVisit": [
+      {
+        "name": "Kurukshetra",
+        "image": "/states/haryana/kurukshetra.jpg",
+        "description": "A city of immense historical and spiritual significance, believed to be the battlefield of the **Mahabharata**."
+      },
+      {
+        "name": "Sultanpur National Park",
+        "image": "/states/haryana/sultanpur-national-park.JPG",
+        "description": "A popular bird sanctuary, home to a large number of migratory birds from all over the world."
+      }
+    ],
+    "tourismLink": "https://haryanatourism.gov.in/"
+  },
+  {
+    "name": "Himachal Pradesh",
+    "slug": "himachal-pradesh",
+    "tagline": "The Valley of Gods",
+    "capital": "Shimla (Summer), Dharamshala (Winter)",
+    "region": "North India",
+    "languages": ["Hindi", "Pahari"],
+    "bestTime": "March – June & September – November",
+    "heroImage": "/states/himachal-pradesh/hero.jpg",
+    "thumbnail": "/states/himachal-pradesh/thumb.jpg",
+    "culture": "A land of serene landscapes and a strong spiritual vibe. The culture is a blend of local traditions and Buddhist influence from Tibet.",
+    "heritage": ["Great Himalayan National Park", "Christ Church", "Hadimba Devi Temple"],
+    "nature": ["Manali", "Shimla", "Spiti Valley", "Rohtang Pass"],
+    "cuisine": ["Dham", "Siddu", "Chha Gosht"],
+    "mustVisit": [
+      {
+        "name": "Shimla",
+        "image": "/states/himachal-pradesh/shimla.jpg",
+        "description": "The capital city, a popular hill station known for its pleasant weather and colonial architecture."
+      },
+      {
+        "name": "Manali",
+        "image": "/states/himachal-pradesh/manali.jpg",
+        "description": "A high-altitude resort town serving as a gateway for skiing, trekking, and adventure sports in the Himalayas."
+      }
+    ],
+    "tourismLink": "https://himachaltourism.gov.in/"
+  },{
+  "name": "Jharkhand",
+  "slug": "jharkhand",
+  "tagline": "The Land of Forests",
+  "capital": "Ranchi",
+  "region": "East India",
+  "languages": ["Hindi", "Santali", "Mundari"],
+  "bestTime": "October – March",
+  "heroImage": "/states/jharkhand/hero.jpg",
+  "thumbnail": "/states/jharkhand/thumb.jpg",
+  "culture": "A state with a rich tribal heritage, distinct folk music, and vibrant festivals like **Sarhul**. The culture is deeply connected to nature and forests.",
+  "heritage": ["Betla National Park", "Jagannath Temple", "Deoghar Baidyanath Temple"],
+  "nature": ["Hundru Falls", "Netarhat", "Parasnat Hill"],
+  "cuisine": ["Dhuska", "Arsa Roti", "Mutton Handi"],
+  "mustVisit": [
+    {
+      "name": "Betla National Park",
+      "image": "/states/jharkhand/betla-national-park.jpg",
+      "description": "One of the first national parks in India to be declared a tiger reserve. It's home to a wide variety of wildlife."
+    },
+    {
+      "name": "Hundru Falls",
+      "image": "/states/jharkhand/hundru-falls.jpg",
+      "description": "A magnificent waterfall near Ranchi, where the Subarnarekha River falls from a height of over 300 feet."
+    }
+  ],
+  "tourismLink": "https://www.tourism.jharkhand.gov.in/"
+},{
+  "name": "Karnataka",
+  "slug": "karnataka",
+  "tagline": "One State, Many Worlds",
+  "capital": "Bengaluru",
+  "region": "South India",
+  "languages": ["Kannada"],
+  "bestTime": "October – April",
+  "heroImage": "/states/karnataka/hero.jpg",
+  "thumbnail": "/states/karnataka/thumb.jpg",
+  "culture": "A land of ancient empires and modern innovation. It's known for its classical music and dance, vibrant silk saris, and the magnificent **Mysuru Dasara** festival.",
+  "heritage": ["Hampi", "Mysore Palace", "Gol Gumbaz"],
+  "nature": ["Coorg", "Gokarna", "Jog Falls"],
+  "cuisine": ["Bisi Bele Bath", "Masala Dosa", "Mysore Pak"],
+  "mustVisit": [
+    {
+      "name": "Hampi",
+      "image": "/states/karnataka/hampi.jpg",
+      "description": "A UNESCO World Heritage Site that was once the capital of the Vijayanagara Empire. Its ruins are spread over a vast, boulder-strewn landscape."
+    },
+    {
+      "name": "Mysore Palace",
+      "image": "/states/karnataka/mysore-palace.jpg",
+      "description": "The official residence of the Wadiyar dynasty and the seat of the Kingdom of Mysore. It's an architectural marvel, especially when lit up at night."
+    }
+  ],
+  "tourismLink": "https://www.karnatakatourism.org/"
+},{
+  "name": "Kerala",
+  "slug": "kerala",
+  "tagline": "God's Own Country",
+  "capital": "Thiruvananthapuram",
+  "region": "South India",
+  "languages": ["Malayalam"],
+  "bestTime": "September – March",
+  "heroImage": "/states/kerala/hero.jpg",
+  "thumbnail": "/states/kerala/thumb.jpg",
+  "culture": "Famed for its tranquil backwaters, lush green landscapes, and a vibrant culture that includes classical dance forms like **Kathakali** and the traditional festival of **Onam**.",
+  "heritage": ["Fort Kochi", "Bekal Fort", "Padmanabhaswamy Temple"],
+  "nature": ["Munnar", "Alleppey", "Periyar National Park"],
+  "cuisine": ["Sadya", "Appam with Stew", "Karimeen Pollichathu"],
+  "mustVisit": [
+      {
+        "name": "Alleppey Backwaters",
+        "image": "/states/kerala/alleppey-backwaters.jpg",
+        "description": "A network of canals, lagoons, and lakes, best explored on a houseboat to experience the serene rural life of Kerala."
+      },
+      {
+        "name": "Munnar",
+        "image": "/states/kerala/munnar.jpg",
+        "description": "A popular hill station renowned for its vast tea plantations, misty mountains, and biodiversity."
+      }
+    ],
+  "tourismLink": "https://www.keralatourism.org/"
+},{
+  "name": "Madhya Pradesh",
+  "slug": "madhya-pradesh",
+  "tagline": "The Heart of Incredible India",
+  "capital": "Bhopal",
+  "region": "Central India",
+  "languages": ["Hindi"],
+  "bestTime": "October – March",
+  "heroImage": "/states/madhya-pradesh/hero.jpg",
+  "thumbnail": "/states/madhya-pradesh/thumb.jpg",
+  "culture": "A state with a rich history, ancient monuments, and diverse tribal communities. It's known for its unique art forms, music, and the **Khajuraho Dance Festival**.",
+  "heritage": ["Khajuraho Group of Monuments", "Sanchi Stupa", "Bhimbetka Rock Shelters"],
+  "nature": ["Bandhavgarh National Park", "Kanha National Park", "Panna National Park"],
+  "cuisine": ["Poha", "Bhutte ka Kees", "Dal Bafla"],
+  "mustVisit": [
+    {
+      "name": "Khajuraho Temples",
+      "image": "/states/madhya-pradesh/khajuraho.jpg",
+      "description": "A UNESCO World Heritage Site famous for its intricate and erotic sculptures that depict various aspects of life and human emotions."
+    },
+    {
+      "name": "Kanha National Park",
+      "image": "/states/madhya-pradesh/kanha-national-park.jpg",
+      "description": "One of the most famous tiger reserves in India, believed to be the inspiration for Rudyard Kipling's 'The Jungle Book'."
+    }
+  ],
+  "tourismLink": "https://www.tourism.mp.gov.in/"
+},{
+  "name": "Maharashtra",
+  "slug": "maharashtra",
+  "tagline": "The Gateway of India",
+  "capital": "Mumbai",
+  "region": "West India",
+  "languages": ["Marathi"],
+  "bestTime": "October – March",
+  "heroImage": "/states/maharashtra/hero.jpg",
+  "thumbnail": "/states/maharashtra/thumb.jpg",
+  "culture": "A state with a vibrant and diverse culture, heavily influenced by its cinematic industry, the legacy of the **Maratha Empire**, and festivals like **Ganesh Chaturthi**.",
+  "heritage": ["Ajanta Caves", "Ellora Caves", "Elephanta Caves", "Gateway of India"],
+  "nature": ["Lonavala & Khandala", "Mahabaleshwar", "Lonar Crater Lake"],
+  "cuisine": ["Vada Pav", "Misal Pav", "Pav Bhaji"],
+  "mustVisit": [
+    {
+      "name": "Ajanta and Ellora Caves",
+      "image": "/states/maharashtra/ajanta-ellora.jpg",
+      "description": "A UNESCO World Heritage Site showcasing rock-cut cave monuments from the 2nd century BCE to about 480 CE, featuring both Buddhist and Hindu art."
+    },
+    {
+      "name": "Gateway of India",
+      "image": "/states/maharashtra/gateway-of-india.jpeg",
+      "description": "A monumental archway built to commemorate the visit of King George V and Queen Mary to Mumbai. It stands as a symbol of the city."
+    }
+  ],
+  "tourismLink": "https://maharashtratourism.gov.in/"
+},{
+  "name": "Manipur",
+  "slug": "manipur",
+  "tagline": "The Land of Jewels",
+  "capital": "Imphal",
+  "region": "Northeast India",
+  "languages": ["Manipuri (Meitei)"],
+  "bestTime": "October – March",
+  "heroImage": "/states/manipur/hero.jpg",
+  "thumbnail": "/states/manipur/thumb.jpg",
+  "culture": "Known for its unique classical dance form **Manipuri Dance**, indigenous games like modern polo, and a deep respect for nature and tradition.",
+  "heritage": ["Kangla Fort", "Ima Keithel", "Shri Govindajee Temple"],
+  "nature": ["Loktak Lake", "Keibul Lamjao National Park", "Dzuko Valley"],
+  "cuisine": ["Eromba", "Chamthong", "Kangshoi"],
+  "mustVisit": [
+    {
+      "name": "Loktak Lake",
+      "image": "/states/manipur/loktak-lake.jpg",
+      "description": "The largest freshwater lake in Northeast India, famous for its floating phumdis (heterogeneous mass of vegetation, soil, and organic matter)."
+    },
+    {
+      "name": "Ima Keithel (Mother's Market)",
+      "image": "/states/manipur/ima-keithel.jpeg",
+      "description": "A unique market run entirely by women, a symbol of women's empowerment in Manipur, where a wide range of goods are sold."
+    }
+  ],
+  "tourismLink": "https://www.manipurtourism.gov.in/"
+},{
+  "name": "Mizoram",
+  "slug": "mizoram",
+  "tagline": "The Land of Blue Mountains",
+  "capital": "Aizawl",
+  "region": "Northeast India",
+  "languages": ["Mizo", "English"],
+  "bestTime": "October – March",
+  "heroImage": "/states/mizoram/hero.jpg",
+  "thumbnail": "/states/mizoram/thumb.jpg",
+  "culture": "A state with a rich tribal heritage and a Christian majority. It is famous for its bamboo dance, **Cheraw**, and the **Chapchar Kut** festival, which celebrates the spring season.",
+  "heritage": ["Phawngpui Blue Mountain", "Solomon's Temple"],
+  "nature": ["Murlen National Park", "Dampa Tiger Reserve", "Tam Dil Lake"],
+  "cuisine": ["Bai", "Koat Pitha", "Bamboo shoot fry"],
+  "mustVisit": [
+    {
+      "name": "Phawngpui National Park",
+      "image": "/states/mizoram/phawngpui-national-park.jpg",
+      "description": "Also known as the **Blue Mountain**, this national park is a high-altitude peak and home to a variety of flora and fauna, including orchids and Rhododendron."
+    },
+    {
+      "name": "Aizawl",
+      "image": "/states/mizoram/aizawl.jpg",
+      "description": "The capital city of Mizoram, offering a unique glimpse into the Mizo way of life and stunning views of the surrounding hills."
+    }
+  ],
+  "tourismLink": "https://tourism.mizoram.gov.in/"
+},{
+  "name": "Nagaland",
+  "slug": "nagaland",
+  "tagline": "The Falcon Capital of the World",
+  "capital": "Kohima",
+  "region": "Northeast India",
+  "languages": ["English", "Nagamese"],
+  "bestTime": "October – May",
+  "heroImage": "/states/nagaland/hero.jpg",
+  "thumbnail": "/states/nagaland/thumb.jpg",
+  "culture": "Home to 16 major tribes, each with its own customs, traditions, and festivals. The annual **Hornbill Festival** is a grand celebration of the state's tribal heritage.",
+  "heritage": ["Kohima War Cemetery", "Kachari Ruins"],
+  "nature": ["Dzukou Valley", "Mount Saramati", "Fakim Wildlife Sanctuary"],
+  "cuisine": ["Smoked pork with bamboo shoots", "Akini Chokibo", "Zutho (rice beer)"],
+  "mustVisit": [
+    {
+      "name": "Dzukou Valley",
+      "image": "/states/nagaland/dzukou-valley.jpg",
+      "description": "A trekking paradise located on the border of Nagaland and Manipur, known for its pristine natural beauty and seasonal flowers."
+    },
+    {
+      "name": "Kohima War Cemetery",
+      "image": "/states/nagaland/kohima-war-cemetery.jpeg",
+      "description": "A somber memorial dedicated to the soldiers of the Allied forces who died in World War II at the Battle of Kohima."
+    }
+  ],
+  "tourismLink": "https://tourismnagaland.com/"
+},{
+  "name": "Odisha",
+  "slug": "odisha",
+  "tagline": "India's Best Kept Secret",
+  "capital": "Bhubaneswar",
+  "region": "East India",
+  "languages": ["Odia"],
+  "bestTime": "October – March",
+  "heroImage": "/states/odisha/hero.jpg",
+  "thumbnail": "/states/odisha/thumb.jpg",
+  "culture": "A land of ancient temples, classical art, and the dance form **Odissi**. The **Rath Yatra** in Puri is a major religious event that draws millions of devotees.",
+  "heritage": ["Konark Sun Temple", "Jagannath Temple", "Lingaraja Temple"],
+  "nature": ["Chilika Lake", "Similipal National Park", "Puri Beach"],
+  "cuisine": ["Dalma", "Pakhala Bhata", "Chenna Poda"],
+  "mustVisit": [
+    {
+      "name": "Konark Sun Temple",
+      "image": "/states/odisha/konark-sun-temple.jpg",
+      "description": "A UNESCO World Heritage Site designed in the shape of a colossal chariot with twelve pairs of intricately carved wheels."
+    },
+    {
+      "name": "Puri",
+      "image": "/states/odisha/puri.jpg",
+      "description": "A revered pilgrimage city and one of the four **Char Dham** destinations, famous for the Jagannath Temple and its beautiful beaches."
+    }
+  ],
+  "tourismLink": "https://odishatourism.gov.in/"
+},{
+  "name": "Punjab",
+  "slug": "punjab",
+  "tagline": "The Land of Five Rivers",
+  "capital": "Chandigarh",
+  "region": "North India",
+  "languages": ["Punjabi"],
+  "bestTime": "October – March",
+  "heroImage": "/states/punjab/hero.jpg",
+  "thumbnail": "/states/punjab/thumb.jpg",
+  "culture": "Known for its vibrant and energetic spirit, reflected in its folk dances **Bhangra** and **Gidda**. It is the birthplace of Sikhism and a hub of agricultural prosperity.",
+  "heritage": ["Golden Temple", "Wagah Border", "Jallianwala Bagh"],
+  "nature": ["Sukhna Lake", "Harike Wetland", "Kanjli Wetland"],
+  "cuisine": ["Makki di Roti with Sarson da Saag", "Amritsari Kulcha", "Butter Chicken"],
+  "mustVisit": [
+    {
+      "name": "Golden Temple (Harmandir Sahib)",
+      "image": "/states/punjab/golden-temple.jpg",
+      "description": "The holiest gurdwara of Sikhism, revered for its stunning architecture and spiritual significance. The community kitchen serves millions of people."
+    },
+    {
+      "name": "Wagah Border",
+      "image": "/states/punjab/wagah-border.jpg",
+      "description": "The border crossing between India and Pakistan, famous for its elaborate and synchronized military ceremony known as the **Wagah-Attari Border Ceremony**."
+    }
+  ],
+  "tourismLink": "https://www.paryatan.punjab.gov.in/"
+},{
+  "name": "Rajasthan",
+  "slug": "rajasthan",
+  "tagline": "The Land of Kings",
+  "capital": "Jaipur",
+  "region": "North India",
+  "languages": ["Hindi", "Rajasthani"],
+  "bestTime": "October – March",
+  "heroImage": "/states/rajasthan/hero.jpg",
+  "thumbnail": "/states/rajasthan/thumb.jpg",
+  "culture": "Known for its vibrant and colorful culture, grand forts, opulent palaces, and rich history of kings and queens. The folk dances like **Ghoomar** and **Kalbelia** are world-renowned.",
+  "heritage": ["Amer Fort", "Mehrangarh Fort", "Chittorgarh Fort"],
+  "nature": ["Thar Desert", "Mount Abu", "Keoladeo National Park"],
+  "cuisine": ["Dal Baati Churma", "Gatte ki Sabzi", "Laal Maas"],
+  "mustVisit": [
+      {
+        "name": "Jaipur City Palace",
+        "image": "/states/rajasthan/jaipur.jpg",
+        "description": "A magnificent palace complex in the heart of Jaipur, showcasing a blend of Rajput and Mughal architecture. It houses a museum with royal artifacts."
+      },
+      {
+        "name": "Jaisalmer Fort",
+        "image": "/states/rajasthan/jaisalmer.jpg",
+        "description": "A UNESCO World Heritage Site, often called the 'Golden Fort,' as it is made of yellow sandstone and appears to be a shimmering golden castle at sunset."
+      }
+    ],
+  "tourismLink": "https://tourism.rajasthan.gov.in/"
+}, {
+      "name": "Sikkim",
+      "slug": "sikkim",
+      "tagline": "The Land of Peace",
+      "capital": "Gangtok",
+      "region": "Northeast India",
+      "languages": ["Nepali", "Sikkimese", "English"],
+      "bestTime": "March – June & September – November",
+      "heroImage": "/states/sikkim/hero.jpg",
+      "thumbnail": "/states/sikkim/thumb.jpg",
+      "culture": "A serene Himalayan state with a rich Buddhist heritage, home to numerous monasteries and vibrant festivals that reflect a blend of Tibetan and Nepalese cultures.",
+      "heritage": ["Rumtek Monastery", "Pemayangtse Monastery", "Dubdi Monastery"],
+      "nature": ["Yumthang Valley", "Nathu La Pass", "Gurudongmar Lake"],
+      "cuisine": ["Momos", "Thukpa", "Phagshapa"],
+      "mustVisit": [
+        {
+          "name": "Tsomgo Lake",
+          "image": "/states/sikkim/tsomgo-lake.jpg",
+          "description": "A sacred glacial lake located at an altitude of over 12,000 feet, known for its changing colors and yak rides."
+        },
+        {
+          "name": "Rumtek Monastery",
+          "image": "/states/sikkim/rumtek-monastery.jpg",
+          "description": "One of Sikkim's largest and most significant monasteries, serving as a center of the Kagyu lineage of Tibetan Buddhism."
+        }
+      ],
+      "tourismLink": "https://www.sikkimtourism.gov.in/"
+    },
+    {
+      "name": "Tamil Nadu",
+      "slug": "tamil-nadu",
+      "tagline": "The Land of Tamils",
+      "capital": "Chennai",
+      "region": "South India",
+      "languages": ["Tamil"],
+      "bestTime": "October – March",
+      "heroImage": "/states/tamil-nadu/hero.jpg",
+      "thumbnail": "/states/tamil-nadu/thumb.jpg",
+      "culture": "A state with an ancient and vibrant Dravidian culture. It is the cradle of classical arts like Bharatanatyam and is known for its grand temples and traditional festivals.",
+      "heritage": ["Mahabalipuram Group of Monuments", "Brihadeeswarar Temple", "Meenakshi Amman Temple"],
+      "nature": ["Nilgiri Hills", "Ooty", "Kodaikanal"],
+      "cuisine": ["Idli", "Dosa", "Sambar"],
+      "mustVisit": [
+        {
+          "name": "Meenakshi Amman Temple",
+          "image": "/states/tamil-nadu/meenakshi-amman-temple.jpg",
+          "description": "A historic Hindu temple in Madurai dedicated to the goddess Meenakshi, known for its impressive architecture and intricate sculptures."
+        },
+        {
+          "name": "Mahabalipuram",
+          "image": "/states/tamil-nadu/mahabalipuram.jpg",
+          "description": "A UNESCO World Heritage Site with a collection of 7th and 8th-century religious monuments, including the famous Shore Temple."
+        }
+      ],
+      "tourismLink": "https://www.tamilnadutourism.tn.gov.in/"
+    },
+    {
+      "name": "Telangana",
+      "slug": "telangana",
+      "tagline": "The New State of India",
+      "capital": "Hyderabad",
+      "region": "South India",
+      "languages": ["Telugu", "Urdu"],
+      "bestTime": "October – March",
+      "heroImage": "/states/telangana/hero.jpg",
+      "thumbnail": "/states/telangana/thumb.jpg",
+      "culture": "A state with a rich blend of North and South Indian cultures, reflecting the legacy of the Nizams of Hyderabad and traditional Telugu traditions.",
+      "heritage": ["Charminar", "Golconda Fort", "Warangal Fort"],
+      "nature": ["Kuntala Waterfalls", "Eturnagaram Wildlife Sanctuary"],
+      "cuisine": ["Hyderabadi Biryani", "Sarva Pindi", "Jonna Rotte"],
+      "mustVisit": [
+        {
+          "name": "Charminar",
+          "image": "/states/telangana/charminar.jpg",
+          "description": "An iconic monument and mosque located in Hyderabad, known for its elegant design and historical significance."
+        },
+        {
+          "name": "Golconda Fort",
+          "image": "/states/telangana/golconda-fort.jpg",
+          "description": "A magnificent fortress and former capital of the Qutb Shahi dynasty, famous for its sound and light show and unique acoustics."
+        }
+      ],
+      "tourismLink": "https://www.telanganatourism.gov.in/"
+    },
+    {
+      "name": "Tripura",
+      "slug": "tripura",
+      "tagline": "The Queen of Hills",
+      "capital": "Agartala",
+      "region": "Northeast India",
+      "languages": ["Bengali", "Kokborok"],
+      "bestTime": "October – April",
+      "heroImage": "/states/tripura/hero.jpg",
+      "thumbnail": "/states/tripura/thumb.jpg",
+      "culture": "A state with a deep tribal heritage alongside a strong Bengali influence. It is known for its beautiful palaces, handloom fabrics, and traditional bamboo and cane handicrafts.",
+      "heritage": ["Ujjayanta Palace", "Neermahal", "Unakoti"],
+      "nature": ["Sepahijala Wildlife Sanctuary", "Gumti Wildlife Sanctuary"],
+      "cuisine": ["Berma", "Chakhwi", "Mosdeng Serma"],
+      "mustVisit": [
+        {
+          "name": "Ujjayanta Palace",
+          "image": "/states/tripura/ujjayanta-palace.jpg",
+          "description": "A former royal palace that now serves as the state museum, showcasing the lifestyle and history of the Tripura kings."
+        },
+        {
+          "name": "Neermahal",
+          "image": "/states/tripura/neermahal.jpg",
+          "description": "A magnificent water palace built in the middle of Rudrasagar Lake, combining Hindu and Islamic architectural styles."
+        }
+      ],
+      "tourismLink": "https://tripuratourism.gov.in/"
+    },
+    {
+      "name": "Uttar Pradesh",
+      "slug": "uttar-pradesh",
+      "tagline": "The Land of Greatness",
+      "capital": "Lucknow",
+      "region": "North India",
+      "languages": ["Hindi", "Urdu"],
+      "bestTime": "October – March",
+      "heroImage": "/states/uttar-pradesh/hero.jpg",
+      "thumbnail": "/states/uttar-pradesh/thumb.jpg",
+      "culture": "The most populous state and the heartland of India's history and mythology. It is the birthplace of Lord Rama and Krishna and is home to the timeless Taj Mahal.",
+      "heritage": ["Taj Mahal", "Varanasi", "Fatehpur Sikri"],
+      "nature": ["Dudhwa National Park", "Pilibhit Tiger Reserve"],
+      "cuisine": ["Tunday Kababi", "Lucknowi Biryani", "Petha"],
+      "mustVisit": [
+        {
+          "name": "Taj Mahal",
+          "image": "/states/uttar-pradesh/taj-mahal.jpg",
+          "description": "A UNESCO World Heritage Site and one of the Seven Wonders of the World, an ivory-white marble mausoleum built by Mughal emperor Shah Jahan."
+        },
+        {
+          "name": "Varanasi",
+          "image": "/states/uttar-pradesh/varanasi.jpg",
+          "description": "The spiritual capital of India, known for its sacred ghats on the Ganges River where pilgrims perform rituals."
+        }
+      ],
+      "tourismLink": "https://uptourism.gov.in/"
+    },
+    {
+      "name": "Uttarakhand",
+      "slug": "uttarakhand",
+      "tagline": "The Land of Gods",
+      "capital": "Dehradun (Winter), Gairsain (Summer)",
+      "region": "North India",
+      "languages": ["Hindi", "Sanskrit"],
+      "bestTime": "March – June & September – November",
+      "heroImage": "/states/uttarakhand/hero.jpg",
+      "thumbnail": "/states/uttarakhand/thumb.jpg",
+      "culture": "A spiritual and adventure hub nestled in the Himalayas. It is home to the Char Dham pilgrimage sites and is a popular destination for trekking, rafting, and yoga.",
+      "heritage": ["Kedarnath Temple", "Badrinath Temple", "Gangotri"],
+      "nature": ["Jim Corbett National Park", "Valley of Flowers", "Nainital"],
+      "cuisine": ["Aloo ke Gutke", "Kafuli", "Baadi"],
+      "mustVisit": [
+        {
+          "name": "Rishikesh",
+          "image": "/states/uttarakhand/rishikesh.jpg",
+          "description": "Known as the 'Yoga Capital of the World,' a spiritual town on the Ganges River, famous for its temples and adventure sports."
+        },
+        {
+          "name": "Nainital",
+          "image": "/states/uttarakhand/nainital.jpg",
+          "description": "A beautiful hill station centered around the pear-shaped Naini Lake. It's a popular spot for boating and a tranquil getaway."
+        }
+      ],
+      "tourismLink": "https://uttarakhandtourism.gov.in/"
+    },{
+    "name": "West Bengal",
+    "slug": "west-bengal",
+    "tagline": "The Soul of India",
+    "capital": "Kolkata",
+    "region": "East India",
+    "languages": ["Bengali"],
+    "bestTime": "October – March",
+    "heroImage": "/states/west-bengal/hero.jpg",
+    "thumbnail": "/states/west-bengal/thumb.jpg",
+    "culture": "A state known for its intellectual and artistic legacy, unique sweets, and the grand **Durga Puja** festival. It is the birthplace of literary giants like Rabindranath Tagore.",
+    "heritage": ["Victoria Memorial", "Shantiniketan", "Darjeeling Himalayan Railway"],
+    "nature": ["Sundarbans National Park", "Darjeeling", "Neora Valley National Park"],
+    "cuisine": ["Rosogolla", "Shondesh", "Machher Jhol"],
+    "mustVisit": [
+      {
+        "name": "Sundarbans National Park",
+        "image": "/states/west-bengal/sundarbans.jpg",
+        "description": "A UNESCO World Heritage Site and the world's largest mangrove forest, home to the elusive **Royal Bengal Tiger**."
+      },
+      {
+        "name": "Darjeeling",
+        "image": "/states/west-bengal/darjeeling.jpg",
+        "description": "A famous hill station and tea-producing region, known for its scenic views of the Himalayas, including Mount Kanchenjunga."
+      }
+    ],
+    "tourismLink": "https://www.wbtourism.gov.in/"
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "slug": "andaman-and-nicobar-islands",
+    "tagline": "Emerald Islands",
+    "capital": "Port Blair",
+    "region": "Bay of Bengal",
+    "languages": ["Hindi", "Bengali", "Tamil", "Telugu"],
+    "bestTime": "October – May",
+    "heroImage": "/uts/andaman-nicobar/hero.jpg",
+    "thumbnail": "/uts/andaman-nicobar/thumb.jpg",
+    "culture": "A mix of indigenous tribal communities and settlers from mainland India. The islands are a paradise for water sports and exploring pristine nature.",
+    "heritage": ["Cellular Jail", "Ross Island"],
+    "nature": ["Radhanagar Beach", "Havelock Island", "Baratang Island"],
+    "cuisine": ["Seafood"],
+    "mustVisit": [
+      {
+        "name": "Cellular Jail",
+        "image": "/uts/andaman-nicobar/cellular-jail.JPG",
+        "description": "A former British colonial prison, now a national memorial that tells the story of India's freedom fighters."
+      },
+      {
+        "name": "Radhanagar Beach",
+        "image": "/uts/andaman-nicobar/radhanagar-beach.jpg",
+        "description": "Voted as one of the best beaches in Asia, known for its white sand, turquoise water, and stunning sunset views."
+      }
+    ],
+    "tourismLink": "http://www.andaman.gov.in/"
+  },
+  {
+    "name": "Chandigarh",
+    "slug": "chandigarh",
+    "tagline": "The City Beautiful",
+    "capital": "Chandigarh",
+    "region": "North India",
+    "languages": ["English", "Hindi", "Punjabi"],
+    "bestTime": "October – March",
+    "heroImage": "/uts/chandigarh/hero.jpg",
+    "thumbnail": "/uts/chandigarh/thumb.jpg",
+    "culture": "A modern, well-planned city known for its unique urban design by Swiss-French architect Le Corbusier. It serves as the capital for both Punjab and Haryana.",
+    "heritage": ["Capitol Complex", "Rock Garden", "Sukhna Lake"],
+    "nature": ["Rose Garden", "Sukhna Lake"],
+    "cuisine": ["Street food", "Butter Chicken"],
+    "mustVisit": [
+      {
+        "name": "Rock Garden",
+        "image": "/uts/chandigarh/rock-garden.jpg",
+        "description": "A famous sculpture garden created by artist Nek Chand, entirely from industrial waste and discarded items."
+      },
+      {
+        "name": "Sukhna Lake",
+        "image": "/uts/chandigarh/sukhna-lake.JPG",
+        "description": "A serene artificial lake at the foothills of the Himalayas, popular for boating and peaceful walks."
+      }
+    ],
+    "tourismLink": "http://chandigarhtourism.gov.in/"
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "slug": "dadra-and-nagar-haveli-and-daman-and-diu",
+    "tagline": "The Land of Ancient Culture",
+    "capital": "Daman",
+    "region": "West India",
+    "languages": ["Gujarati", "Hindi", "English"],
+    "bestTime": "October – March",
+    "heroImage": "/uts/dadra-nagar-haveli-daman-diu/hero.jpg",
+    "thumbnail": "/uts/dadra-nagar-haveli-daman-diu/thumb.jpg",
+    "culture": "A blend of Indian and Portuguese cultures, evident in its architecture, cuisine, and local traditions.",
+    "heritage": ["Fort of Diu", "Church of Our Lady of Rosary", "Daman Fort"],
+    "nature": ["Jampore Beach", "Devka Beach", "Mirasaol Lake Garden"],
+    "cuisine": ["Seafood", "Portuguese-influenced dishes"],
+    "mustVisit": [
+      {
+        "name": "Fort of Diu",
+        "image": "/uts/dadra-nagar-haveli-daman-diu/diu-fort.jpg",
+        "description": "A large and imposing Portuguese fort overlooking the Arabian Sea, with an impressive lighthouse and cannons."
+      },
+      {
+        "name": "Jampore Beach",
+        "image": "/uts/dadra-nagar-haveli-daman-diu/jampore-beach.jpeg",
+        "description": "A tranquil beach known for its black sand and calm waters, making it ideal for swimming and leisurely strolls."
+      }
+    ],
+    "tourismLink": "http://dnh.nic.in/"
+  },
+  {
+    "name": "Delhi",
+    "slug": "delhi",
+    "tagline": "The Heart of India",
+    "capital": "New Delhi",
+    "region": "North India",
+    "languages": ["Hindi", "English"],
+    "bestTime": "October – March",
+    "heroImage": "/uts/delhi/hero.jpg",
+    "thumbnail": "/uts/delhi/thumb.jpg",
+    "culture": "A melting pot of cultures, combining the historical grandeur of the Mughal and British empires with the hustle of a modern metropolis.",
+    "heritage": ["Qutub Minar", "Humayun's Tomb", "Red Fort"],
+    "nature": ["Lodi Garden", "Garden of Five Senses"],
+    "cuisine": ["Dilli ki Chaat", "Butter Chicken", "Paranthe"],
+    "mustVisit": [
+      {
+        "name": "India Gate",
+        "image": "/uts/delhi/india-gate.jpg",
+        "description": "A prominent war memorial and a symbol of Delhi, located on the ceremonial axis of Rajpath."
+      },
+      {
+        "name": "Humayun's Tomb",
+        "image": "/uts/delhi/humayuns-tomb.jpg",
+        "description": "A UNESCO World Heritage Site and the tomb of the Mughal Emperor Humayun. It is an exquisite example of Mughal architecture."
+      }
+    ],
+    "tourismLink": "http://delhitourism.gov.in/"
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "slug": "jammu-and-kashmir",
+    "tagline": "Paradise on Earth",
+    "capital": "Srinagar (Summer), Jammu (Winter)",
+    "region": "North India",
+    "languages": ["Kashmiri", "Dogri", "Hindi", "Urdu"],
+    "bestTime": "April – October",
+    "heroImage": "/uts/jammu-kashmir/hero.jpg",
+    "thumbnail": "/uts/jammu-kashmir/thumb.jpg",
+    "culture": "A land of breathtaking natural beauty and a unique cultural blend of Kashmiri, Dogra, and Ladakhi traditions. It's known for its intricate handicrafts and Sufi music.",
+    "heritage": ["Dal Lake", "Mughal Gardens", "Amarnath Cave Temple"],
+    "nature": ["Gulmarg", "Pahalgam", "Sonamarg"],
+    "cuisine": ["Rogan Josh", "Gushtaba", "Yakhni"],
+    "mustVisit": [
+      {
+        "name": "Dal Lake",
+        "image": "/uts/jammu-kashmir/dal-lake.jpg",
+        "description": "Known as the 'Jewel in the Crown of Kashmir', this urban lake is famous for its houseboats and scenic beauty."
+      },
+      {
+        "name": "Gulmarg",
+        "image": "/uts/jammu-kashmir/gulmerg.jpeg",
+        "description": "A popular hill station and ski resort in the Pir Panjal range. It has one of the world's highest operating cable cars."
+      }
+    ],
+    "tourismLink": "https://jktourism.jk.gov.in/"
+  },
+  {
+    "name": "Lakshadweep",
+    "slug": "lakshadweep",
+    "tagline": "The Jewel of the Arabian Sea",
+    "capital": "Kavaratti",
+    "region": "Arabian Sea",
+    "languages": ["Malayalam"],
+    "bestTime": "October – May",
+    "heroImage": "/uts/lakshadweep/hero.jpg",
+    "thumbnail": "/uts/lakshadweep/thumb.jpg",
+    "culture": "A unique island culture with strong influences from Kerala. The islands are a hub for snorkeling, diving, and other water sports.",
+    "heritage": ["Lighthouse", "Marine Museum"],
+    "nature": ["Bangaram Atoll", "Kadmat Island"],
+    "cuisine": ["Seafood"],
+    "mustVisit": [
+      {
+        "name": "Kavaratti",
+        "image": "/uts/lakshadweep/kavaratti.jpg",
+        "description": "The capital of Lakshadweep, known for its pristine beaches, coconut groves, and beautiful mosques."
+      },
+      {
+        "name": "Bangaram Atoll",
+        "image": "/uts/lakshadweep/bangaram-atoll.jpg",
+        "description": "An uninhabited atoll known for its stunning coral reefs, clear waters, and vibrant marine life, making it a diver's paradise."
+      }
+    ],
+    "tourismLink": "https://lakshadweeptourism.com/"
+  },
+  {
+    "name": "Puducherry",
+    "slug": "puducherry",
+    "tagline": "The French Riviera of the East",
+    "capital": "Puducherry",
+    "region": "South India",
+    "languages": ["Tamil", "French", "English"],
+    "bestTime": "October – March",
+    "heroImage": "/uts/puducherry/hero.jpg",
+    "thumbnail": "/uts/puducherry/thumb.jpg",
+    "culture": "A unique blend of French colonial heritage and traditional Tamil culture. The town is known for its serene ashrams and beautiful beaches.",
+    "heritage": ["French Quarter", "Sri Aurobindo Ashram"],
+    "nature": ["Paradise Beach", "Serenity Beach"],
+    "cuisine": ["French and Tamil fusion food"],
+    "mustVisit": [
+      {
+        "name": "Auroville",
+        "image": "/uts/puducherry/auroville.jpg",
+        "description": "An experimental township intended to be a universal city where people of all nationalities, beliefs, and cultures can live in peace and harmony."
+      },
+      {
+        "name": "French Quarter",
+        "image": "/uts/puducherry/french-quarter.jpeg",
+        "description": "Known as the White Town, this area retains its colonial charm with pastel-colored villas, bougainvillea-covered walls, and French-style architecture."
+      }
+    ],
+    "tourismLink": "https://www.pondytourism.in/"
+  },
+  {
+    "name": "Ladakh",
+    "slug": "ladakh",
+    "tagline": "The Land of High Passes",
+    "capital": "Leh",
+    "region": "North India",
+    "languages": ["Ladakhi", "Tibetan", "Hindi"],
+    "bestTime": "May – September",
+    "heroImage": "/uts/ladakh/hero.jpg",
+    "thumbnail": "/uts/ladakh/thumb.jpg",
+    "culture": "A high-altitude desert region with a predominantly Buddhist culture heavily influenced by Tibetan traditions. It's famous for its monasteries and breathtaking mountain landscapes.",
+    "heritage": ["Leh Palace", "Thiksey Monastery"],
+    "nature": ["Pangong Lake", "Nubra Valley", "Indus River"],
+    "cuisine": ["Thukpa", "Momos", "Ladakhi Pulao"],
+    "mustVisit": [
+      {
+        "name": "Pangong Lake",
+        "image": "/uts/ladakh/pangong-lake.jpg",
+        "description": "A stunning high-altitude lake that is a major tourist attraction, famous for its deep blue waters that change color."
+      },
+      {
+        "name": "Leh Palace",
+        "image": "/uts/ladakh/leh-palace.jpeg",
+        "description": "A former royal palace that offers a panoramic view of the town of Leh and the surrounding Stok Kangri mountain range."
+      }
+    ],
+    "tourismLink": "https://leh.nic.in/tourism/"
+  }
+]
